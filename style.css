@@ -1,0 +1,58 @@
+.menu{
+  display: flex;
+  justify-content: space-between;
+  background-color: #000000;
+  padding:14px;
+  font-size: 20px;
+  font-family: "sans-serif";
+  font-weight:400;
+  color: #ffffff;
+  margin-left: 15px;
+
+
+}
+
+.main-bg{
+    background-image: url("images/HBD image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .best-bg{
+    background-image: url("images/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .cook-bg{
+    background-image: url("images/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .memmories-bg{
+    background-image: url("images/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  a:link{
+    color: white;
+  } 
+  
+  a:visited{
+    color:cyan;
+    
+  }
+
+  .tq{
+
+    position: static;
+  margin-top: 2000;
+  margin-left: 200;
+  transform: translate(26%,40%);
+  font-size: 45px;
+  font-family:"chiller";
+  }
+  
